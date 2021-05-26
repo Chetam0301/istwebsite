@@ -49,22 +49,25 @@ a:hover{
   text-align: left;
 }
 .top-container {
-  background-color:#caf7e3;
+  background-color:#f6e6e4;
   position: relative;
   margin: 0;
   padding-top: 50px;
 }
 .middle-container{
-  margin: 100px 0;
+  margin: 0;
+  background-color: #f6e6e4;
 }
 .bottom-container{
-  background-color: #caf7e3;
+  background-color: #151515;
   padding: 50px 0 20px;
-
 }
 .intro{
   width: 40%;
   margin: auto;
+}
+.work{
+  margin-top: 0;
 }
 .top-cloud {
   position: absolute;
@@ -77,12 +80,12 @@ a:hover{
   left: 100px;
   bottom: 300px;
 }
+
 .circular{
   border-radius: 50%;
   width: 250px;
   height: 300px;
-
-
+  margin-top: 100px;
 }
 .Matlab_Logo{
   width: 50%;
@@ -92,6 +95,7 @@ a:hover{
 }
 .developer{
   width: 50%;
+
 }
 .contact-message{
   width: 40%;
